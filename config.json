@@ -1,0 +1,10 @@
+{
+  "target": "KF556C40BB-16",
+  "stores": [
+    { "name": "Jimms", "url": "https://www.jimms.fi/fi/Product/Show/178284/kf556c40bb-16/kingston-16gb-1-x-16gb-fury-beast-ddr5-5600mhz-cl40-1-25v-musta" },
+    { "name": "Data-Systems", "url": "https://www.data-systems.fi/tuote/kingston-16gb-5600mhz-ddr5-cl40-dimm-fury-beast-black/" },
+    { "name": "Verkkokauppa.com", "url": "https://www.verkkokauppa.com/fi/product/756439/Kingston-FURY-Beast-DDR5-5600-MHz-CL40-16-Gt-muistimoduli" },
+    { "name": "Multitronic", "url": "<product page URL>" }
+  ],
+  "alertBelowEur": 300
+}
