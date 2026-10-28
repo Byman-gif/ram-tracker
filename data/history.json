@@ -494,5 +494,21 @@
     "price": 363.99,
     "currency": "EUR",
     "checkedAt": "2026-10-27T21:09:09.937Z"
+  },
+  {
+    "store": "Jimms",
+    "url": "https://www.jimms.fi/fi/Product/Show/178284/kf556c40bb-16/kingston-16gb-1-x-16gb-fury-beast-ddr5-5600mhz-cl40-1-25v-musta",
+    "title": "Kingston 16GB (1 x 16GB) FURY Beast, DDR5 5600MHz, CL40, 1.25V, musta - 399,90€",
+    "price": 399.9,
+    "currency": "EUR",
+    "checkedAt": "2026-10-28T11:06:01.326Z"
+  },
+  {
+    "store": "Verkkokauppa.com",
+    "url": "https://www.verkkokauppa.com/fi/product/756439/Kingston-FURY-Beast-DDR5-5600-MHz-CL40-16-Gt-muistimoduli",
+    "title": "Kingston FURY Beast DDR5 5600 MHz CL40 16 Gt -muistimoduli 363,99",
+    "price": 363.99,
+    "currency": "EUR",
+    "checkedAt": "2026-10-28T11:06:02.908Z"
   }
 ]
